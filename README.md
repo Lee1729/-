@@ -2,10 +2,11 @@
 졸업심사를 위한 테크니컬 포트폴리오
 
 본 레포지토리는 다음과 같은 총 3개의 결과물로 구성됨
+(코드 파일에 대한 설명은 각 폴더의 README.md에 있음)
 
 ## 1. Causal Analysis of Online Communities and Stock Prices
   - 온라인 주식 커뮤니티에서의 주식 종목에 대한 글 수와 주가, 거래량 간의 인과관계를 분석
-  - Beautifulsoup를 이용해 웹 크롤링으로 온라인 주식커뮤니티의 데이터를 수집
+  - 웹 크롤링 툴인 Beautifulsoup를 이용해 온라인 주식커뮤니티의 데이터를 수집
   - 상관관계와 Granger Causality로 분석을 수행 
 
 ## 2. Deep Neural Network Prediction of Startup Bankruptcy Using Non-Financial Information
