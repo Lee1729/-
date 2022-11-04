@@ -14,7 +14,7 @@
   - `modules/stableCRI.py` : Python으로 구현한 안정적인 concise rule induction 알고리즘
   - `modules/usertree.py` : decision tree 알고리즘
   - `modules/utils.py` : 유틸리티
-  - `visgraph.py` : Python 라이브러리 grapviz로 이용한 tree 시각화
+  - `modules/visgraph.py` : Python 라이브러리 grapviz로 이용한 tree 시각화
   
 ## 1. Introduction
 - 목표 : 해석적 관점에서 안정적인 의사결정나무 알고리즘 개발
