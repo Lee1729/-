@@ -1,7 +1,7 @@
 # Technical Portfolio
 졸업심사를 위한 테크니컬 포트폴리오
 
-본 레포지토리는 총 3개의 결과물로 이루어짐
+본 레포지토리는 다음과 같은 총 3개의 결과물로 이루어짐
 
 ## 1. Causal Analysis of Online Communities and Stock Prices
   - 온라인 주식 커뮤니티에서의 주식 종목에 대한 글 수와 주가, 거래량 간의 인과관계를 분석
