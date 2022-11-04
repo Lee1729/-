@@ -4,9 +4,10 @@
 
 ## 0. Files and Programming Skills
 + Stable Decision Tree
-  - `caseStudy_part2`
-  - `modules/stableDT.py`
-+ Others for datamining TA
+  - `caseStudy_part2` : 
+  - `modules/stableDT.py` : 
++ Others for datamining TA : 
+  - `breast-cancer-wisconsin.csv` : 
   - `caseStudy_part1` :
   - `modules/splitcriterion.py` : 
   - `modules/stableCRI.py` :
