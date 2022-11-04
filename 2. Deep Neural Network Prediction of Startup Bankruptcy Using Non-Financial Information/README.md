@@ -1,5 +1,5 @@
 # Deep Neural Network Prediction of Startup Bankruptcy Using Non-Financial Information
-비재무정보를 이용해 신생 기업의 부도를 심층 인공신경망으로 예측
+비재무정보를 이용해 신생 기업의 부도를 심층 인공신경망으로 예측  
 team : 이정언, 제갈홍, 최지현
 
 ## 0. Files and Programming Skills
