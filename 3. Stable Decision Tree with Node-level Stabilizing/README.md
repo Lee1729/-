@@ -5,16 +5,16 @@
 ## 0. Files and Programming Skills
 + Stable Decision Tree
   - `caseStudy_part2.ipynb` : Stable decision tree와 Stable concise rule inuction 사용 예제
-  - `modules/stableDT.py` : Stable decision tree 알고리즘
+  - `modules/stableDT.py` : Python으로 구현한 Stable decision tree 알고리즘 및 트리 다이어그램 시각화
 + Others for datamining TA : 
   - `breast-cancer-wisconsin.csv` : UCI의 유방암 데이터셋
   - `BC_preprocessed.csv` : breast-cancer-wisconsin 전처리 데이터셋
-  - `caseStudy_part1.ipynb` : 유방암 데이터셋에 대한 EDA 및 시각화
-  - `modules/splitcriterion.py` : 의사결정나무의 one-sided-maximum 분기 기준
-  - `modules/stableCRI.py` : 안정적인 concise rule induction 알고리즘
+  - `caseStudy_part1.ipynb` : Python으로 유방암 데이터셋에 대한 EDA 및 시각화
+  - `modules/splitcriterion.py` : Python으로 구현한 의사결정나무의 one-sided-maximum 분기 기준
+  - `modules/stableCRI.py` : Python으로 구현한 안정적인 concise rule induction 알고리즘
   - `modules/usertree.py` : decision tree 알고리즘
   - `modules/utils.py` : 유틸리티
-  - `visgraph.py` : tree 시각화
+  - `visgraph.py` : Python 라이브러리 grapviz로 이용한 tree 시각화
   
 ## 1. Introduction
 - 목표 : 해석적 관점에서 안정적인 의사결정나무 알고리즘 개발
@@ -28,7 +28,6 @@
 
 ## 3. Result
 - Stable한 Decision tree 알고리즘과 트리 다이어그램 시각화 기능
-- 안정성 비교는 진행중
 
 ## 4. code example
-- `caseStudy_part2.ipynb`의 1.Stable DT에 해당하는 부분
+- `caseStudy_part2.ipynb`의 1. Stable DT에 해당하는 부분
