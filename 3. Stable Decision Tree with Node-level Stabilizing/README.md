@@ -6,7 +6,7 @@
 + Stable Decision Tree
   - `caseStudy_part2`
   - `modules/stableDT.py`
-+ Datamining TA
++ Others for datamining TA
   - `caseStudy_part1` :
   - `modules/splitcriterion.py` : 
   - `modules/stableCRI.py` :
