@@ -4,11 +4,11 @@
 
 ## 0. Files and Programming Skills
 + Stable Decision Tree
-  - `caseStudy_part2` : 
+  - `caseStudy_part2.ipynb` : 
   - `modules/stableDT.py` : 
 + Others for datamining TA : 
   - `breast-cancer-wisconsin.csv` : 
-  - `caseStudy_part1` :
+  - `caseStudy_part1.ipynb` :
   - `modules/splitcriterion.py` : 
   - `modules/stableCRI.py` :
   - `modules/usertree.py` : 
@@ -26,5 +26,5 @@
 - 
 
 ## 4. code example
-- `caseStudy_part2`의 부분
+- `caseStudy_part2.ipynb`의 ( ) 부분
 - 
