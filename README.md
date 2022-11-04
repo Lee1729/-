@@ -13,7 +13,7 @@
   - Drop out을 사용한 Feed-foward netowrk와 logistic regression 간 예측 성능을 비교
   - 머신러닝 라이브러리 pytorch 이용
 
-## 3. Stable decision tree with node-level stabilizing
+## 3. Stable Decision Tree with Node-level Stabilizing
   - 노드 단위 안정화를 이용한 안정적인 의사결정나무 알고리즘 개발
   - Python을 이용해 머신러닝 알고리즘을 구현
 
