@@ -12,9 +12,9 @@
   - `caseStudy_part1.ipynb` : Python으로 유방암 데이터셋에 대한 EDA 및 시각화
   - `modules/splitcriterion.py` : Python으로 구현한 의사결정나무의 one-sided-maximum 분기 기준
   - `modules/stableCRI.py` : Python으로 구현한 안정적인 concise rule induction 알고리즘
-  - `modules/usertree.py` : decision tree 알고리즘
+  - `modules/usertree.py` : Decision tree 알고리즘
   - `modules/utils.py` : 유틸리티
-  - `modules/visgraph.py` : Python 라이브러리 grapviz로 이용한 tree 시각화
+  - `modules/visgraph.py` : Python 라이브러리 grapviz로 tree를 시각화하기 위한 포맷 변환
   
 ## 1. Introduction
 - 목표 : 해석적 관점에서 안정적인 의사결정나무 알고리즘 개발
